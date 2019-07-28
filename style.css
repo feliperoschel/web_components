@@ -1,0 +1,19 @@
+
+@import url(<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,700&display=swap">);
+
+@import url("css/components/avatar.css");
+@import url("css/components/button.css");
+@import url("css/components/dropdown.css");
+@import url("css/components/card.css");
+@import url("css/components/badge.css");
+@import url("css/components/banner.css");
+@import url("css/components/tabs.css");
+@import url("css/components/product.css");
+
+body  {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+}
+
+h1, h2, h3  {
+  font-family: "Montserrat", "sans-serif";
+}
